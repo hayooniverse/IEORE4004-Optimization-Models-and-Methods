@@ -1,0 +1,9 @@
+\ Model RealTimeEnergyMarket_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+\ Signature: 0xb96ad2866e4772d0
+Minimize
+  0 Pg2_2
+Subject To
+Bounds
+ Pg2_2 <= -3.306
+End
